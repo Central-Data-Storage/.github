@@ -1,5 +1,6 @@
-## Hi there 👋
+## Hello 👋
 
+Welcome to CDS! We are focused on cyber and Midwestern hospitality. If you have any questions, please email support@centraldatastorage.com. 
 <!--
 
 **Here are some ideas to get you started:**
